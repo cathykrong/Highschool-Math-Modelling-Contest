@@ -1,0 +1,79 @@
+Label,True Label,Predicted Label,Probability Positive Class,Diff
+Water Polo,1,1,0.905390098,0
+Ultimate Frisbee,0,0,0.303778166,0
+Gaelic Football,0,0,0.294595894,0
+Hurling,0,0,0.360848365,0
+Beach Soccer,1,1,0.893100532,0
+Dragon Boat Racing,0,0,0.342519297,0
+Tchoukball,0,0,0.208789389,0
+Netball,0,0,0.369997808,0
+Roller Derby,0,0,0.300592439,0
+Baseball,1,1,0.907785779,0
+Basketball,1,1,0.973920922,0
+Cricket,1,1,0.864844493,0
+Field Hockey,1,1,0.900213386,0
+Flag football,1,1,0.598154247,0
+Football,1,1,0.97005511,0
+Handball,1,1,0.889881667,0
+Mountain Biking,0,1,0.689855454,-1
+Rugby,1,1,0.911424303,0
+"Martial Arts (Karate, Kung Fu)",0,1,0.65276306,-1
+Volleyball,1,1,0.93994426,0
+Mixed Martial Arts (MMA),0,1,0.639684147,-1
+Billiards (Pool),0,1,0.631022406,-1
+Kickboxing,0,1,0.624709293,-1
+Sumo,0,0,0.356578432,0
+"Climbing (Bouldering, Traditional Climbing)",0,1,0.618231233,-1
+Judo,1,1,0.611616426,0
+Karate,1,1,0.617211307,0
+Taekwondo,1,1,0.630823255,0
+Wrestling,1,1,0.702922366,0
+Table Football (Foosball),0,0,0.411977415,0
+Rackets,1,0,0.479960367,1
+Padel,0,0,0.268788354,0
+Pickleball,0,0,0.321224138,0
+Basque Pelota,0,0,0.272195197,0
+Diving,1,1,0.7287529,0
+Fencing,1,1,0.781209428,0
+Badminton,1,1,0.919281351,0
+Breaking,1,1,0.639665552,0
+Sailing,1,0,0.456421572,1
+Boxing,1,0,0.444277914,1
+Squash,1,1,0.869894079,0
+Table Tennis,1,1,0.844833622,0
+Tennis,1,1,0.943237137,0
+Bowling,0,0,0.358497584,0
+Darts,0,0,0.217390133,0
+Lacrosse,1,0,0.432427366,1
+Modern Pentathlon,1,0,0.411831681,1
+Orienteering,0,0,0.395183248,0
+Parkour,0,0,0.204203238,0
+Skeet Shooting,0,0,0.456511764,0
+Disc Golf,0,0,0.391189703,0
+Baton Twirling,0,0,0.124115461,0
+DanceSport (Competitive Dance),0,0,0.229428362,0
+Foilboarding (Hydrofoil Surfing),0,0,0.322044791,0
+Sandboarding,0,0,0.271977361,0
+Adventure Racing,0,0,0.352716758,0
+Wood Chopping,0,0,0.165279603,0
+Freediving,0,0,0.182478814,0
+Coastal Rowing,1,0,0.411703365,1
+Marathon Swimming (aka open water swimming),1,1,0.883625846,0
+Swimming,1,1,0.961786269,0
+Canoeing,1,1,0.897818794,0
+Cycling,1,1,0.941469971,0
+Roque,1,0,0.401500425,1
+Golf,1,1,0.889616639,0
+Jeu de Paume,1,0,0.398872729,1
+Equestrian,1,0,0.34843659,1
+Tug of War,1,0,0.303329715,1
+Artistic Swimming,1,0,0.287092032,1
+Skateboarding,1,1,0.636852651,0
+Surfing,1,1,0.642191965,0
+Triathlon,1,1,0.884459918,0
+Weightlifting,1,1,0.895227522,0
+"Auto Racing (e.g., Formula 1, NASCAR)",0,0,0.205779278,0
+Drag Racing,0,0,0.286668351,0
+Motocross,0,0,0.299187832,0
+Enduro Motorcycle Racing,0,0,0.227428695,0
+Water Motorsports,0,0,0.242139614,0
