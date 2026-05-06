@@ -1,0 +1,16 @@
+Criteria,Weight,,,,,,,,,,,,,,,,,,,
+1 Fatality Rate,0.187537885,,,,,,,,,,,,,,,,,,,
+2 CO2 footprint,0.024536552,,,,,,,,,,,,,,,,,,,
+3 Number of countries playing it,0.069133736,,,,Column1,Column2,Column3,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,Column14,Column15,Column16
+4 Ratio of Players of each gender,0.03536178,,,,Criteria,1 Fatality Rate,2 CO2 footprint,3 Number of countries playing it,4 Ratio of Players of each gender,5 Number of Players,6 Cost of Equipment for Players,7 Presence in University Sports,8 Injury Rate,9 Social Media Presence,10 Gender Pay Gap,11 Ratio of each gender in coaching positions,12 Doping Statistics,13 Ease of developing new strategies,14 Accessibility across different streaming platforms,15 Movies/documentaries
+5 Number of Players,0.112985168,,,,Weight,0.187537885,0.024536552,0.069133736,0.03536178,0.112985168,0.038835047,0.051349095,0.132566174,0.086966149,0.023323454,0.024687812,0.018864471,0.022516915,0.079288794,0.09108123
+6 Cost of Equipment for Players,0.038835047,,,,,,,,,,,,,,,,,,,
+7 Presence in University Sports,0.051349095,,,,,,,,,,,,,,,,,,,
+8 Injury Rate,0.132566174,,,,,,,,,,,,,,,,,,,
+9 Social Media Presence,0.086966149,,,,,,,,,,,,,,,,,,,
+10 Gender Pay Gap,0.023323454,,,,,,,,,,,,,,,,,,,
+11 Ratio of each gender in coaching positions,0.024687812,,,,,,,,,,,,,,,,,,,
+12 Doping Statistics,0.018864471,,,,,,,,,,,,,,,,,,,
+13 Ease of developing new strategies,0.022516915,,,,,,,,,,,,,,,,,,,
+14 Accessibility across different streaming platforms,0.079288794,,,,,,,,,,,,,,,,,,,
+15 Movies/documentaries,0.09108123,,,,,,,,,,,,,,,,,,,
